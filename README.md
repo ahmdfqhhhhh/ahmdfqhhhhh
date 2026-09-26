@@ -1,15 +1,23 @@
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h1>Hi 👋, I'm Ahmad Faqih</h1>
-      <p><b>Beginner Developer 🚀 | Web & Mobile Enthusiast</b></p>
-      <p>Passionate about crafting clean web applications and mobile apps while constantly exploring modern software tech stack.</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="[https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif](https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif)" width="180px" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Banner Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=AHMAD%20FAQIH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer%20%E2%80%A2%20Tech%20Explorer&descAlignY=58&descAlign=50" width="100%" />
+
+  <br />
+
+  <!-- Animated Typing Tagline -->
+  <a href="https://github.com/ahmdfqhhhhh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+impactful+web+%26+mobile+solutions...;Passionate+about+Laravel%2C+Flutter+%26+AI;Welcome+to+my+digital+workspace!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  <!-- Quick Badges & Profile Views -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Fullstack_%26_Mobile-8A2BE2?style=for-the-badge&logo=codefactor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-00F5D4?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://komarev.com/ghpvc/?username=ahmdfqhhhhh&label=PROFILE+VIEWS&color=7B2CBF&style=for-the-badge" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 

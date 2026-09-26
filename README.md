@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ahmdfqhhhhh&theme=radical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdfqhhhhh&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---

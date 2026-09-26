@@ -1,14 +1,17 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Faqih" alt="Header" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&text=Ahmad%20Faqih&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Web%20%26%20Mobile%20Developer%20Enthusiast&descSize=18&descAlignY=70" width="100%" />
 
-<p align="center">
-  <b>Beginner Developer</b> 🚀 | <i>Web & Mobile Enthusiast</i>
-</p>
+  <br />
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ahmdfqhhhhh?label=Followers&style=social" />
-</p>
+  <p align="center">
+    <a href="https://github.com/ahmdfqhhhhh">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 

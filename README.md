@@ -1,17 +1,17 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello%2C+World!%22);$+'whoami'+-+Ahmad+Faqih;Building+cool+web+%26+mobile+stuff...;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Terminal Typing" />
-</div>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1>Hi 👋, I'm Ahmad Faqih</h1>
+      <p><b>Beginner Developer 🚀 | Web & Mobile Enthusiast</b></p>
+      <p>Passionate about crafting clean web applications and mobile apps while constantly exploring modern software tech stack.</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="[https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif](https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif)" width="180px" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <code><b>$ cat about_me.json</b></code>
-</p>
-
-```json
-{
-  "name": "Ahmad Faqih",
-  "role": "Beginner Developer & Tech Enthusiast",
-  "focus": ["Web Development", "Mobile Applications", "AI Integration"]
-}
+---
 
 ## 🧰 Tech Stack  
 <p align="center">

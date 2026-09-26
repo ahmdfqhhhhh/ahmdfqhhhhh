@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmdfqhhhhh&theme=radical&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ahmdfqhhhhh&theme=radical&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---

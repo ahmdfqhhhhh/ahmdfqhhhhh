@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25F4EE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8D%2C+I'm+Ahmad+Faqih;Web+%26+Mobile+Enthusiast+%F0%9F%9A%80;Continuous+Learner+%F0%9F%92%A1" alt="Typing SVG" />
-
-  <p align="center">
-    <code>Software Engineering</code> • <code>Web Development</code> • <code>Mobile Apps</code>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/ahmdfqhhhhh">
-      <img src="https://img.shields.io/badge/Status-Building_%26_Learning-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-    </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Ahmad%20Faqih&fontSize=42&fontColor=25f4ee&animation=fadeIn&stroke=00000000" width="100%" />
+  
+  <h3>🚀 Web & Mobile App Enthusiast</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ahmdfqhhhhh&label=Profile%20Views&color=0e75a0&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 

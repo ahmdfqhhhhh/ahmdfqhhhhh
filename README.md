@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&text=Ahmad%20Faqih&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Web%20%26%20Mobile%20Developer%20Enthusiast&descSize=18&descAlignY=70" width="100%" />
-
-  <br />
-
-  <p align="center">
-    <a href="https://github.com/ahmdfqhhhhh">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello%2C+World!%22);$+'whoami'+-+Ahmad+Faqih;Building+cool+web+%26+mobile+stuff...;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Terminal Typing" />
 </div>
 
----
+<p align="center">
+  <code><b>$ cat about_me.json</b></code>
+</p>
+
+```json
+{
+  "name": "Ahmad Faqih",
+  "role": "Beginner Developer & Tech Enthusiast",
+  "focus": ["Web Development", "Mobile Applications", "AI Integration"]
+}
 
 ## 🧰 Tech Stack  
 <p align="center">

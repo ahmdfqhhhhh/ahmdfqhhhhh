@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ahmad Faqih</h1>
-<p align="center">Beginner Developer 🚀 | Web & Mobile Enthusiast</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25F4EE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8D%2C+I'm+Ahmad+Faqih;Web+%26+Mobile+Enthusiast+%F0%9F%9A%80;Continuous+Learner+%F0%9F%92%A1" alt="Typing SVG" />
+
+  <p align="center">
+    <code>Software Engineering</code> • <code>Web Development</code> • <code>Mobile Apps</code>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/ahmdfqhhhhh">
+      <img src="https://img.shields.io/badge/Status-Building_%26_Learning-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+    </a>
+  </p>
+</div>
+
+---
 
 ---
 

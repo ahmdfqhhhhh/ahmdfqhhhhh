@@ -1,22 +1,28 @@
 <div align="center">
-  <!-- Banner Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=AHMAD%20FAQIH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer%20%E2%80%A2%20Tech%20Explorer&descAlignY=58&descAlign=50" width="100%" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="65%" valign="top">
+        <h1>✨ Hi, I'm <span color="#00F5D4">Ahmad Faqih</span> 👋</h1>
+        <p><b>🚀 Web & Mobile Enthusiast | Tech Creator</b></p>
+        <p><i>"Turning ideas into scalable code & beautiful user experiences."</i></p>
+        <br />
+        <p>
+          ⚡ <b>Main Focus:</b> Web Development & Mobile Applications<br />
+          🛠️ <b>Tech Stack:</b> Laravel, Flutter, Python, Tailwind CSS<br />
+          🎯 <b>Current Goal:</b> Exploring AI integration & Modern Software Architecture
+        </p>
+      </td>
+      <td width="35%" align="center" valign="middle">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius:15px;" alt="Coding Animation" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <br />
+<br />
 
-  <!-- Animated Typing Tagline -->
-  <a href="https://github.com/ahmdfqhhhhh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+impactful+web+%26+mobile+solutions...;Passionate+about+Laravel%2C+Flutter+%26+AI;Welcome+to+my+digital+workspace!+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-
-  <br /><br />
-
-  <!-- Quick Badges & Profile Views -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Fullstack_%26_Mobile-8A2BE2?style=for-the-badge&logo=codefactor&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-00F5D4?style=for-the-badge&logo=github&logoColor=black" />
-    <img src="https://komarev.com/ghpvc/?username=ahmdfqhhhhh&label=PROFILE+VIEWS&color=7B2CBF&style=for-the-badge" alt="Profile Views" />
-  </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 ---

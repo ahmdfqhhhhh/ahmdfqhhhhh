@@ -1,14 +1,14 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Ahmad%20Faqih&fontSize=42&fontColor=25f4ee&animation=fadeIn&stroke=00000000" width="100%" />
-  
-  <h3>🚀 Web & Mobile App Enthusiast</h3>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ahmdfqhhhhh&label=Profile%20Views&color=0e75a0&style=flat-square" alt="Profile Views" />
-  </p>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Faqih" alt="Header" />
+</h1>
 
----
+<p align="center">
+  <b>Beginner Developer</b> 🚀 | <i>Web & Mobile Enthusiast</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ahmdfqhhhhh?label=Followers&style=social" />
+</p>
 
 ---
 
